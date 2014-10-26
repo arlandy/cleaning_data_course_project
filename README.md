@@ -17,4 +17,8 @@ Cleaning Data Course Project
 
 8. From the data set in step 7, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-9. Saves the tidy data file
+9. Sets the tidy data in the variable casted
+
+10. Saves the tidy data file (tidydata.txt) in the work directory 
+
+ 
